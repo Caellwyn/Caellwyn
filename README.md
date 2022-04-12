@@ -25,8 +25,11 @@ I also love talking about my passions, like...education!  I was a preschool teac
 🔭 I’m currently teaching self-driven adults about data science and assisting them in changing their own lives..
 
 Shoot me an email at: caellwyn@gmail.com
+
 Check out my articles at https://caellwyn.medium.com
+
 Or my LinkedIn at https://www.linkedin.com/in/josh-johnson-049a2619/
+
 Or my repositories right below!
 
 Thanks for stopping by, have a great day!
