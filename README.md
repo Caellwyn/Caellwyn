@@ -19,10 +19,10 @@ How about seen the Golden Mountain in Ecuador or Mt. Kenya in...Kenya!  Travel i
 
 ![Kenya Sunrise](/pictures/kenya_sunrise.jpg)
 
-I also love talking about my passions, like...education!  I was a preschool teacher for 7 years and was known as "The Toddler Whisperer."  Here's the trick, kids like to be seen, heard, and treated like they matter and have something important to offer.  If you show them you like and respect them, you'll usually earn their love quickly.  I also love talking about self-driven education.  I started 3 schools around project-based learning and self-driven education.  If you want to learn a new skill, hit me up, I might have some advice.
+I also love talking about my passions, like...education!  I was a preschool teacher for 7 years and was known as "The Toddler Whisperer."  Here's the trick, kids like to be seen, heard, and treated like they matter and have something important to offer.  If you show them you like and respect them, you'll usually earn their love quickly.  I also love talking about self-driven education.  I started 3 schools around project-based learning and self-driven online education.  If you want to learn a new skill, hit me up, I might have some advice.
 
 
-🔭 I’m currently teaching self-driven adults about data science and assisting them in changing their own lives..
+🔭 I’m currently teaching self-driven adults about data science and assisting them in changing their own lives.
 
 Shoot me an email at: caellwyn@gmail.com
 
