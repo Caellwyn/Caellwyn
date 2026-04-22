@@ -11,6 +11,9 @@ Real-time voice form-filling using the Gemini Live API with <50ms barge-in laten
 **🧠 [Long-Memory Character Chatbot](https://github.com/Caellwyn) — RAG-based conversational AI**
 A novel architecture that keeps effectively unbounded conversational memory while holding active context under 4,000 tokens. Multi-agent pipeline (main conversation, memory summarization, content-safety filtering) with adjustable persona controls. Publicly deployed on Streamlit.
 
+**🤝 [YourTurn.group](https://yourturn.group) — group coordination, automated**
+A Flask app that takes the grunt work out of running recurring group activities — scheduling, reminders, rotations, and communication — so the humans can focus on showing up. Built on Railway with Stripe, Postmark, Cloudflare R2, and Google Places.
+
 Plus a production SaaS (PlanPull) that extracts material lists from contractor PDFs at 95%+ accuracy, an ML pipeline that predicts at-risk online students weeks before course end, and a pandemic-era SARIMAX forecasting model that hit <1% MAPE on 30-day infection-rate predictions. Browse the repos below for more.
 
 ### 📚 What I teach and think about
